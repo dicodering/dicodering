@@ -16,7 +16,7 @@ designer and developer.
 
 <!-- 4. Sub -->
 - 🤡 MBTI is <strong>ENFP or ENTP</strong>
-- 🗂 I'm a <strong>recorder</strong> (Analog and digital)
+- 🗂 I'm a <strong>recorder</strong> (Analog and Digital)
 - 🌱 I want to be a <strong>front-end developer</strong> better than me from yesterday.
 - ⚽️ <strong>KOP</strong> : You'll Never Walk Alone.
 - 🌳 Sensitive to <strong>space.</strong>
