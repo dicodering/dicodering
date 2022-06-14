@@ -49,7 +49,7 @@ designer and developer.
 
 
 <!-- 6. Outro  -->
-<h6 align="left">
+<h6 align="right">
   <samp>just go for it</samp><br/>
   <samp>stay at this moment</samp><br/>
   <samp>love each other</samp>
