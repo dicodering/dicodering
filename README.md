@@ -44,9 +44,6 @@ designer and developer.
 ![PremierLeague](https://img.shields.io/badge/-PremierLeague-360D3A?style=flat-square&logo=PremierLeague&logoColor=white)
 
 
-<br/>
-
-
 
 <!-- 6. Outro  -->
 <h6 align="right">
